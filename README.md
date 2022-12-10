@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning frontend Devlopement
 - 📫 my mail id santanuroy253396gmail.com contact-no.9051524415
-Tech Stack
+- Tech Stack
 💻   JAVA JavaScript
 
 🌐   HTML5 CSS Bootstrap 
