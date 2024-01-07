@@ -1,4 +1,4 @@
-👋 Hi, I’m @Santanu3103
+👋 Hi, I’m Santanu Roy.
 👀 I’m interested in Software Devlopment
 🌱 I’m currently learning frontend Devlopement
 📫 my mail id santanuroy253396gmail.com contact-no.9051524415
